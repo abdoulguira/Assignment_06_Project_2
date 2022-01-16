@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Assignment_06_Project_2/static/css/main.d68b00e1.css",
-    "main.js": "/Assignment_06_Project_2/static/js/main.c735620a.js",
+    "main.css": "/Assignment_06_Project_2/static/css/main.7c2b9041.chunk.css",
+    "main.js": "/Assignment_06_Project_2/static/js/main.da539d1f.chunk.js",
+    "main.js.map": "/Assignment_06_Project_2/static/js/main.da539d1f.chunk.js.map",
+    "runtime~main.js": "/Assignment_06_Project_2/static/js/runtime~main.09fb7a6f.js",
+    "runtime~main.js.map": "/Assignment_06_Project_2/static/js/runtime~main.09fb7a6f.js.map",
+    "static/js/2.624f555d.chunk.js": "/Assignment_06_Project_2/static/js/2.624f555d.chunk.js",
+    "static/js/2.624f555d.chunk.js.map": "/Assignment_06_Project_2/static/js/2.624f555d.chunk.js.map",
     "index.html": "/Assignment_06_Project_2/index.html",
-    "main.d68b00e1.css.map": "/Assignment_06_Project_2/static/css/main.d68b00e1.css.map",
-    "main.c735620a.js.map": "/Assignment_06_Project_2/static/js/main.c735620a.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.d68b00e1.css",
-    "static/js/main.c735620a.js"
-  ]
+    "precache-manifest.05cacfe3c8b43da84afee0b3c4f35769.js": "/Assignment_06_Project_2/precache-manifest.05cacfe3c8b43da84afee0b3c4f35769.js",
+    "service-worker.js": "/Assignment_06_Project_2/service-worker.js",
+    "static/css/main.7c2b9041.chunk.css.map": "/Assignment_06_Project_2/static/css/main.7c2b9041.chunk.css.map"
+  }
 }
