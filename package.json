@@ -2,7 +2,7 @@
   "name": "tocopymodules",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://makmn1.github.io/Assignment_06_Project_2/",
+  "homepage": "https://abdoulguira.github.io/Assignment_06_Project_2/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
