@@ -13,7 +13,7 @@ export default function CityInput(){
     function getZipCodes(event) {
         event.preventDefault()
 
-        fetch(`http://ctp-zip-api.herokuapp.com/city/${cities.toUpperCase()}`)
+        fetch(`https://ctp-zip-api.herokuapp.com/city/${cities.toUpperCase()}`)
    
             .then(function(response) {
                 if (response.ok) {
